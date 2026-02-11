@@ -4,8 +4,8 @@ package-lock.json
 yarn.lock
 
 # Build outputs
-styles.css
-styles.map
+#styles.css
+#styles.map
 
 # OS files
 .DS_Store
