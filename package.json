@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "postcss ./styles.tailwind.css -o ./styles.css",
+    "dev": "postcss ./styles.tailwind.css -o ./styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.24",
+    "pdfkit": "^0.17.2",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^3.4.19"
+  }
+}
